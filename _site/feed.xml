@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2025-06-10T10:57:55-05:00</updated><id>http://0.0.0.0:4000/feed.xml</id><title type="html">Erusha Sandushan</title><subtitle>Focus on Cyber Security, Computer Science, and Linux.</subtitle><entry><title type="html">Why!</title><link href="http://0.0.0.0:4000/2025/06/10/why" rel="alternate" type="text/html" title="Why!" /><published>2025-06-10T00:00:00-05:00</published><updated>2025-06-10T00:00:00-05:00</updated><id>http://0.0.0.0:4000/2025/06/10/why</id><content type="html" xml:base="http://0.0.0.0:4000/2025/06/10/why"><![CDATA[<h2 id="-why-this-blog">🚀 Why This Blog?</h2>
+
+<p>Hey! I’m <strong>Erusha Sandushan</strong> — a Computer Science undergrad, cybersecurity enthusiast, and system administrator. This blog isn’t just a personal space; it’s my <strong>digital lab notebook</strong>, my <strong>learning log</strong>, and my attempt at building a <strong>credible public footprint</strong> in the world of cybersecurity and technology.</p>
+
+<hr />
+<h2 id="-the-vision">🧠 The Vision</h2>
+
+<p>I created this blog to:</p>
+
+<ul>
+  <li>✍️ Document my learning journey in cybersecurity, system administration, and academic topics.</li>
+  <li>🔎 Share original vulnerability research, CVEs, or interesting technical findings as I grow.</li>
+  <li>📚 Break down complex topics I learn in uni into digestible posts — helping others while reinforcing my own knowledge.</li>
+  <li>🧰 Showcase the projects, writeups, and tools I work on.</li>
+  <li>🌐 Build a <strong>personal brand</strong> rooted in honesty, curiosity, and contribution.</li>
+</ul>
+
+<hr />
+
+<h2 id="-my-goals-with-this-blog">🎯 My Goals with This Blog</h2>
+
+<ul>
+  <li>Publish technical writeups on systems I audit or pentest (ethically, of course).</li>
+  <li>Share walkthroughs of interesting bugs or vulnerabilities I encounter.</li>
+  <li>Be transparent about my growth — even the mistakes and failures.</li>
+</ul>
+
+<hr />
+
+<h2 id="-what-youll-see-here">🧵 What You’ll See Here</h2>
+
+<p>Even though I don’t have public CVEs or major research (yet), I’m building up toward it. Expect to see:</p>
+
+<ul>
+  <li>Blog-style posts on tools, bugs, or configurations I find interesting</li>
+  <li>CTF or lab walkthroughs (like HackTheBox, TryHackMe)</li>
+  <li>Scripts, shell tips, or sysadmin tricks I use</li>
+  <li>Possibly reflections on tech.</li>
+</ul>
+
+<hr />
+
+<h2 id="-lets-connect">🫱🏼‍🫲🏽 Let’s Connect</h2>
+
+<p>I’m still learning — always will be — and I’d love to connect with like-minded people in tech. If you’re into security, Linux, or just building cool stuff, feel free to reach out.</p>
+
+<p>Thanks for stopping by. More posts coming soon!</p>
+
+<style>
+    .post-content {
+  overflow-x: auto;
+  word-wrap: break-word;
+}
+
+</style>]]></content><author><name></name></author><category term="Thoughts" /><category term="intro" /><category term="personal" /><category term="goals" /><category term="cybersecurity" /><category term="blog" /><summary type="html"><![CDATA[🚀 Why This Blog?]]></summary></entry></feed>
