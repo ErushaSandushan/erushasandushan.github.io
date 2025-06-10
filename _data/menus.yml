@@ -1,4 +1,4 @@
-- default: menu_index
+- default: menu_blog
   url: ''
 
 - default: menu_category
@@ -8,9 +8,6 @@
 #- title: 'Jekyll Paper for Github'
 #  absoluteUrl: true
 #  url: 'https://github.com/ghosind/Jekyll-Paper-Github'
-
-- default: menu_contact
-  url: 'contact'
 
 - default: menu_about
   url: 'about'
