@@ -9,7 +9,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Focus on Cyber Security, Computer Science, and Linux.
 keywords: [Erusha Sandushan,Computer Science,Cybersecurity,Penetration Testing,Linux,Ethical Hacking,Programming,Personal Portfolio]
 baseurl: '' # the subpath of your site, e.g. /`blog
-url: 'https://erushasandushan.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://erushasandushan.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 domain: 'erushasandushan.github.io' # the domain name for your site, e.g. example.com
 language: en
 # Supported languages list:
